@@ -1,4 +1,4 @@
-# Rickrolling replication package
+# Rickrolling replication package (SIGBOVIK 2022)
 
 Replication package of "[Exhaustive Survey of Rickrolling in Academic Literature](http://arxiv.org/pdf/2204.06826)" (Benoit Baudry and Martin Monperrus), In Proceedings of SIGBOVIK, 2022. 
 
